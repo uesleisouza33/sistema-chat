@@ -1,10 +1,10 @@
 const mysql = require('mysql2');
 
 const db = mysql.createConnection({
-    host: 'yamabiko.proxy.rlwy.net',
-    user: 'root',
-    password: 'VTkytnSuFpaYYkWWXQrFBDzfkMDsWIKJ',
-    database: 'sistema_chat',
+    host: '',
+    user: '',
+    password: '',
+    database: '',
     port: 47024
 });
 
